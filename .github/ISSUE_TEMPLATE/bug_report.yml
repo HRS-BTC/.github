@@ -23,6 +23,7 @@ body:
         2. Click on '....'
         3. Scroll down to '....'
         4. See error
+      render: bash
     validations:
       required: false
   - type: textarea
@@ -61,9 +62,9 @@ body:
       description: What build profile are you seeing the problem on ?
       multiple: true
       options:
-        - debug
-        - profile
-        - release
+        - Debug
+        - Profile
+        - Release
     validations:
       required: false
   - type: dropdown
