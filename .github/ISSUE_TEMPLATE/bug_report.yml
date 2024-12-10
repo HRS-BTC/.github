@@ -12,7 +12,7 @@ body:
       description: Please enter an explicit description of your issue
       placeholder: Short and explicit description of your incident...
     validations:
-      required: true
+      required: false
   - type: textarea
     id: reprod
     attributes:
