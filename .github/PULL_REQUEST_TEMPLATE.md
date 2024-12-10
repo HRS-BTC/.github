@@ -39,7 +39,7 @@ _Please replace this line with instructions on how to test your changes, a note
 on the devices and browsers this has been tested on, as well as any relevant
 images for UI changes._
 
-## [optional] Added/updated tests? (Optional)
+## [optional] Added/updated tests?
 
 - [ ] Yes
 - [ ] No,
