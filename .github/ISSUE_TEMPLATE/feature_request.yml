@@ -5,22 +5,6 @@ labels: [
   "question"
 ]
 body:
-  - type: input
-    id: start_date
-    attributes:
-      label: "Start Date"
-      description: Start of development
-      placeholder: "month/day/year"
-    validations:
-      required: false
-  - type: textarea
-    id: implementation_pr
-    attributes:
-      label: "Implementation PR"
-      description: Pull request used
-      placeholder: "#Pull Request ID"
-    validations:
-      required: false
   - type: textarea
     id: reference_issues
     attributes:
@@ -36,7 +20,7 @@ body:
       description: Provide a brief explanation of the feature
       placeholder: Describe in a few lines your feature request
     validations:
-      required: false
+      required: true
   - type: textarea
     id: basic_example
     attributes:
@@ -44,7 +28,7 @@ body:
       description: Indicate here some basic examples of your feature.
       placeholder: A few specific words about your feature request.
     validations:
-      required: false
+      required: true
   - type: textarea
     id: drawbacks
     attributes:
@@ -52,7 +36,7 @@ body:
       description: What are the drawbacks/impacts of your feature request ?
       placeholder: Identify the drawbacks and impacts while being neutral on your feature request
     validations:
-      required: false
+      required: true
   - type: textarea
     id: unresolved_question
     attributes:
