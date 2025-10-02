@@ -50,5 +50,7 @@ images for UI changes._
 _Announce testers yet?_
 
 ---
+
 _This is the [Mobile App Team Convention for Pull Requests](https://confluence.hrs.io/display/DEV/Mobile+App+Team+Convention#MobileAppTeamConvention-PullRequestguidelines)_
+
 ---
