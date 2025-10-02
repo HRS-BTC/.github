@@ -11,11 +11,11 @@
 
 ## What type of PR is this? (check all applicable)
 
-- [ ] Refactor
-- [ ] Feature
-- [ ] Bug Fix
-- [ ] Optimization
-- [ ] Documentation Update
+- [ ] 🛠 Refactor
+- [ ] 🚀 Feature
+- [ ] 🐛 Bug Fix
+- [ ] ⚡ Optimization
+- [ ] 📚 Documentation Update
 
 ## Description
 
@@ -29,7 +29,7 @@ For example having the text: "closes #1234" would connect the current pull
 request to issue 1234.  And when we merge the pull request, Github will
 automatically close the issue.
 -->
-
+- Ticket: https://jira.hrs.io/browse/
 - Related Issue #
 - Closes #
 
@@ -42,9 +42,13 @@ images for UI changes._
 ## [optional] Added/updated tests?
 
 - [ ] Yes
-- [ ] No,
+- [ ] No, then why?
 - [ ] I need help with writing tests
 
 ## [optional] Are there any post deployment tasks we need to perform?
 
-## [optional] What gif best describes this PR or how it makes you feel?
+_Announce testers yet?_
+
+---
+_This is the [Mobile App Team Convention for Pull Requests](https://confluence.hrs.io/display/DEV/Mobile+App+Team+Convention#MobileAppTeamConvention-PullRequestguidelines)_
+---
